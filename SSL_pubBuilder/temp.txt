@@ -1,0 +1,2756 @@
+Starting...
+Getting Elsevier data for Dekker, Evan Hendrik...
+Array
+(
+    [author-retrieval-response] => Array
+        (
+            [0] => Array
+                (
+                    [@_fa] => true
+                    [@status] => found
+                    [coredata] => Array
+                        (
+                            [prism:url] => http://api.elsevier.com/content/author/author_id/42061189000
+                            [dc:identifier] => AUTHOR_ID:42061189000
+                            [eid] => 9-s2.0-42061189000
+                            [document-count] => 1
+                            [cited-by-count] => 27
+                            [citation-count] => 27
+                            [link] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [@_fa] => true
+                                            [@href] => http://api.elsevier.com/content/search/scopus?query=refauid%2842061189000%29
+                                            [@rel] => scopus-citedby
+                                        )
+
+                                    [1] => Array
+                                        (
+                                            [@_fa] => true
+                                            [@href] => http://www.scopus.com/authid/detail.url?partnerID=HzOxMe3b&authorId=42061189000&origin=inward
+                                            [@rel] => scopus-author
+                                        )
+
+                                    [2] => Array
+                                        (
+                                            [@_fa] => true
+                                            [@href] => http://api.elsevier.com/content/author/author_id/42061189000
+                                            [@rel] => self
+                                        )
+
+                                    [3] => Array
+                                        (
+                                            [@_fa] => true
+                                            [@href] => http://api.elsevier.com/content/search/scopus?query=au-id%2842061189000%29
+                                            [@rel] => search
+                                        )
+
+                                )
+
+                        )
+
+                    [affiliation-current] => Array
+                        (
+                            [@href] => http://api.elsevier.com/content/affiliation/affiliation_id/103587040
+                            [@id] => 103587040
+                        )
+
+                    [subject-areas] => Array
+                        (
+                            [subject-area] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [@_fa] => true
+                                            [@abbrev] => COMP
+                                            [@code] => 1702
+                                            [$] => Artificial Intelligence
+                                        )
+
+                                    [1] => Array
+                                        (
+                                            [@_fa] => true
+                                            [@abbrev] => COMP
+                                            [@code] => 1712
+                                            [$] => Software
+                                        )
+
+                                )
+
+                        )
+
+                    [author-profile] => Array
+                        (
+                            [status] => new
+                            [date-created] => Array
+                                (
+                                    [@day] => 17
+                                    [@month] => 07
+                                    [@year] => 2011
+                                )
+
+                            [alias] => Array
+                                (
+                                    [@current-status] => moved-from
+                                    [aliased-id] => Array
+                                        (
+                                            [@status] => moved-from
+                                            [@timestamp] => 2011-07-17T18:25:50.000050+01:00
+                                            [$] => 39961176300
+                                        )
+
+                                )
+
+                            [preferred-name] => Array
+                                (
+                                    [initials] => E.
+                                    [indexed-name] => Dekker E.
+                                    [surname] => Dekker
+                                    [given-name] => Evan
+                                )
+
+                            [classificationgroup] => Array
+                                (
+                                    [classifications] => Array
+                                        (
+                                            [@type] => ASJC
+                                            [classification] => Array
+                                                (
+                                                    [0] => Array
+                                                        (
+                                                            [@frequency] => 1
+                                                            [$] => 1702
+                                                        )
+
+                                                    [1] => Array
+                                                        (
+                                                            [@frequency] => 1
+                                                            [$] => 1712
+                                                        )
+
+                                                )
+
+                                        )
+
+                                )
+
+                            [publication-range] => Array
+                                (
+                                    [@end] => 2011
+                                    [@start] => 2011
+                                )
+
+                            [journal-history] => Array
+                                (
+                                    [@type] => author
+                                    [journal] => Array
+                                        (
+                                            [@type] => j
+                                            [sourcetitle] => Machine Learning
+                                            [sourcetitle-abbrev] => Mach Learn
+                                            [issn] => 08856125
+                                        )
+
+                                )
+
+                            [affiliation-current] => Array
+                                (
+                                    [affiliation] => Array
+                                        (
+                                            [@affiliation-id] => 103587040
+                                            [@parent] => 60010859
+                                            [ip-doc] => Array
+                                                (
+                                                    [@id] => 103587040
+                                                    [@relationship] => author
+                                                    [@type] => dept
+                                                    [afdispname] => Federation University Australia, School of Information Technology and Mathematical Sciences
+                                                    [preferred-name] => School of Information Technology and Mathematical Sciences
+                                                    [parent-preferred-name] => Federation University Australia
+                                                    [sort-name] => School of Information Technology and Mathematical Sciences
+                                                    [address] => Array
+                                                        (
+                                                            [@country] => aus
+                                                            [address-part] => P.O. Box 663
+                                                            [city] => Ballarat
+                                                            [state] => vic
+                                                            [postal-code] => 3353
+                                                            [country] => Australia
+                                                        )
+
+                                                    [org-domain] => ballarat.edu.au
+                                                    [org-URL] => http://www.ballarat.edu.au
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+Getting Elsevier data for Kruger, Alexander Ya...
+Array
+(
+    [author-retrieval-response] => Array
+        (
+            [0] => Array
+                (
+                    [@_fa] => true
+                    [@status] => found
+                    [coredata] => Array
+                        (
+                            [prism:url] => http://api.elsevier.com/content/author/author_id/7103033267
+                            [dc:identifier] => AUTHOR_ID:7103033267
+                            [eid] => 9-s2.0-7103033267
+                            [orcid] => 0000-0002-7861-7380
+                            [document-count] => 29
+                            [cited-by-count] => 103
+                            [citation-count] => 148
+                            [link] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [@_fa] => true
+                                            [@href] => http://api.elsevier.com/content/search/scopus?query=refauid%287103033267%29
+                                            [@rel] => scopus-citedby
+                                        )
+
+                                    [1] => Array
+                                        (
+                                            [@_fa] => true
+                                            [@href] => http://www.scopus.com/authid/detail.url?partnerID=HzOxMe3b&authorId=7103033267&origin=inward
+                                            [@rel] => scopus-author
+                                        )
+
+                                    [2] => Array
+                                        (
+                                            [@_fa] => true
+                                            [@href] => http://api.elsevier.com/content/author/author_id/7103033267
+                                            [@rel] => self
+                                        )
+
+                                    [3] => Array
+                                        (
+                                            [@_fa] => true
+                                            [@href] => http://api.elsevier.com/content/search/scopus?query=au-id%287103033267%29
+                                            [@rel] => search
+                                        )
+
+                                )
+
+                        )
+
+                    [affiliation-current] => Array
+                        (
+                            [@href] => http://api.elsevier.com/content/affiliation/affiliation_id/114425601
+                            [@id] => 114425601
+                        )
+
+                    [affiliation-history] => Array
+                        (
+                            [affiliation] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [@_fa] => true
+                                            [@href] => http://api.elsevier.com/content/affiliation/affiliation_id/60010859
+                                            [@id] => 60010859
+                                        )
+
+                                )
+
+                        )
+
+                    [subject-areas] => Array
+                        (
+                            [subject-area] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [@_fa] => true
+                                            [@abbrev] => DECI
+                                            [@code] => 1802
+                                            [$] => Information Systems and Management
+                                        )
+
+                                    [1] => Array
+                                        (
+                                            [@_fa] => true
+                                            [@abbrev] => COMP
+                                            [@code] => 1706
+                                            [$] => Computer Science Applications
+                                        )
+
+                                    [2] => Array
+                                        (
+                                            [@_fa] => true
+                                            [@abbrev] => MATH
+                                            [@code] => 2600
+                                            [$] => Mathematics (all)
+                                        )
+
+                                    [3] => Array
+                                        (
+                                            [@_fa] => true
+                                            [@abbrev] => MATH
+                                            [@code] => 2613
+                                            [$] => Statistics and Probability
+                                        )
+
+                                    [4] => Array
+                                        (
+                                            [@_fa] => true
+                                            [@abbrev] => MATH
+                                            [@code] => 2604
+                                            [$] => Applied Mathematics
+                                        )
+
+                                    [5] => Array
+                                        (
+                                            [@_fa] => true
+                                            [@abbrev] => COMP
+                                            [@code] => 1705
+                                            [$] => Computer Networks and Communications
+                                        )
+
+                                    [6] => Array
+                                        (
+                                            [@_fa] => true
+                                            [@abbrev] => ENGI
+                                            [@code] => 2208
+                                            [$] => Electrical and Electronic Engineering
+                                        )
+
+                                    [7] => Array
+                                        (
+                                            [@_fa] => true
+                                            [@abbrev] => MATH
+                                            [@code] => 2601
+                                            [$] => Mathematics (miscellaneous)
+                                        )
+
+                                    [8] => Array
+                                        (
+                                            [@_fa] => true
+                                            [@abbrev] => COMP
+                                            [@code] => 1712
+                                            [$] => Software
+                                        )
+
+                                    [9] => Array
+                                        (
+                                            [@_fa] => true
+                                            [@abbrev] => MATH
+                                            [@code] => 2603
+                                            [$] => Analysis
+                                        )
+
+                                    [10] => Array
+                                        (
+                                            [@_fa] => true
+                                            [@abbrev] => MATH
+                                            [@code] => 2607
+                                            [$] => Discrete Mathematics and Combinatorics
+                                        )
+
+                                    [11] => Array
+                                        (
+                                            [@_fa] => true
+                                            [@abbrev] => DECI
+                                            [@code] => 1803
+                                            [$] => Management Science and Operations Research
+                                        )
+
+                                    [12] => Array
+                                        (
+                                            [@_fa] => true
+                                            [@abbrev] => COMP
+                                            [@code] => 1707
+                                            [$] => Computer Vision and Pattern Recognition
+                                        )
+
+                                    [13] => Array
+                                        (
+                                            [@_fa] => true
+                                            [@abbrev] => ENGI
+                                            [@code] => 2200
+                                            [$] => Engineering (all)
+                                        )
+
+                                    [14] => Array
+                                        (
+                                            [@_fa] => true
+                                            [@abbrev] => MATH
+                                            [@code] => 2614
+                                            [$] => Theoretical Computer Science
+                                        )
+
+                                    [15] => Array
+                                        (
+                                            [@_fa] => true
+                                            [@abbrev] => MATH
+                                            [@code] => 2606
+                                            [$] => Control and Optimization
+                                        )
+
+                                    [16] => Array
+                                        (
+                                            [@_fa] => true
+                                            [@abbrev] => MATH
+                                            [@code] => 2612
+                                            [$] => Numerical Analysis
+                                        )
+
+                                    [17] => Array
+                                        (
+                                            [@_fa] => true
+                                            [@abbrev] => SOCI
+                                            [@code] => 3315
+                                            [$] => Communication
+                                        )
+
+                                    [18] => Array
+                                        (
+                                            [@_fa] => true
+                                            [@abbrev] => MATH
+                                            [@code] => 2608
+                                            [$] => Geometry and Topology
+                                        )
+
+                                )
+
+                        )
+
+                    [author-profile] => Array
+                        (
+                            [status] => update
+                            [date-created] => Array
+                                (
+                                    [@day] => 29
+                                    [@month] => 11
+                                    [@year] => 2005
+                                )
+
+                            [preferred-name] => Array
+                                (
+                                    [initials] => A.Y.
+                                    [indexed-name] => Kruger A.
+                                    [surname] => Kruger
+                                    [given-name] => Alexander Ya
+                                )
+
+                            [name-variant] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [initials] => A.
+                                            [indexed-name] => Kruger A.
+                                            [surname] => Kruger
+                                            [given-name] => Alexander
+                                        )
+
+                                    [1] => Array
+                                        (
+                                            [initials] => A.
+                                            [indexed-name] => Kruger A.
+                                            [surname] => Kruger
+                                            [given-name] => 
+                                        )
+
+                                    [2] => Array
+                                        (
+                                            [initials] => A.
+                                            [indexed-name] => Kruger A.
+                                            [surname] => Kruger
+                                            [given-name] => A.
+                                        )
+
+                                    [3] => Array
+                                        (
+                                            [initials] => A.Y.
+                                            [indexed-name] => Kruger A.Y.
+                                            [surname] => Kruger
+                                            [given-name] => Alexander Y.
+                                        )
+
+                                    [4] => Array
+                                        (
+                                            [initials] => A.Ya.
+                                            [indexed-name] => Kruger A.Ya.
+                                            [surname] => Kruger
+                                            [given-name] => Alexander Ya.
+                                        )
+
+                                    [5] => Array
+                                        (
+                                            [initials] => A.Y.
+                                            [indexed-name] => Kruger A.
+                                            [surname] => Kruger
+                                            [given-name] => A. Y.
+                                        )
+
+                                    [6] => Array
+                                        (
+                                            [initials] => A.
+                                            [indexed-name] => Kruger A.
+                                            [surname] => Kruger
+                                            [given-name] => Alex
+                                        )
+
+                                )
+
+                            [classificationgroup] => Array
+                                (
+                                    [classifications] => Array
+                                        (
+                                            [@type] => ASJC
+                                            [classification] => Array
+                                                (
+                                                    [0] => Array
+                                                        (
+                                                            [@frequency] => 1
+                                                            [$] => 1802
+                                                        )
+
+                                                    [1] => Array
+                                                        (
+                                                            [@frequency] => 1
+                                                            [$] => 1706
+                                                        )
+
+                                                    [2] => Array
+                                                        (
+                                                            [@frequency] => 5
+                                                            [$] => 2600
+                                                        )
+
+                                                    [3] => Array
+                                                        (
+                                                            [@frequency] => 3
+                                                            [$] => 2613
+                                                        )
+
+                                                    [4] => Array
+                                                        (
+                                                            [@frequency] => 16
+                                                            [$] => 2604
+                                                        )
+
+                                                    [5] => Array
+                                                        (
+                                                            [@frequency] => 2
+                                                            [$] => 1705
+                                                        )
+
+                                                    [6] => Array
+                                                        (
+                                                            [@frequency] => 1
+                                                            [$] => 2208
+                                                        )
+
+                                                    [7] => Array
+                                                        (
+                                                            [@frequency] => 1
+                                                            [$] => 2601
+                                                        )
+
+                                                    [8] => Array
+                                                        (
+                                                            [@frequency] => 3
+                                                            [$] => 1712
+                                                        )
+
+                                                    [9] => Array
+                                                        (
+                                                            [@frequency] => 8
+                                                            [$] => 2603
+                                                        )
+
+                                                    [10] => Array
+                                                        (
+                                                            [@frequency] => 2
+                                                            [$] => 2607
+                                                        )
+
+                                                    [11] => Array
+                                                        (
+                                                            [@frequency] => 10
+                                                            [$] => 1803
+                                                        )
+
+                                                    [12] => Array
+                                                        (
+                                                            [@frequency] => 1
+                                                            [$] => 1707
+                                                        )
+
+                                                    [13] => Array
+                                                        (
+                                                            [@frequency] => 3
+                                                            [$] => 2200
+                                                        )
+
+                                                    [14] => Array
+                                                        (
+                                                            [@frequency] => 4
+                                                            [$] => 2614
+                                                        )
+
+                                                    [15] => Array
+                                                        (
+                                                            [@frequency] => 10
+                                                            [$] => 2606
+                                                        )
+
+                                                    [16] => Array
+                                                        (
+                                                            [@frequency] => 1
+                                                            [$] => 2612
+                                                        )
+
+                                                    [17] => Array
+                                                        (
+                                                            [@frequency] => 1
+                                                            [$] => 3315
+                                                        )
+
+                                                    [18] => Array
+                                                        (
+                                                            [@frequency] => 1
+                                                            [$] => 2608
+                                                        )
+
+                                                )
+
+                                        )
+
+                                )
+
+                            [publication-range] => Array
+                                (
+                                    [@end] => 2015
+                                    [@start] => 1978
+                                )
+
+                            [journal-history] => Array
+                                (
+                                    [@type] => author
+                                    [journal] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [@type] => j
+                                                    [sourcetitle] => Engineering cybernetics
+                                                    [sourcetitle-abbrev] => Eng Cybern
+                                                    [issn] => 0013788X
+                                                )
+
+                                            [1] => Array
+                                                (
+                                                    [@type] => p
+                                                    [sourcetitle] => The 7th International Conference on Advanced Communication Technology, ICACT 2005
+                                                    [sourcetitle-abbrev] => 7th Int. Conf. Adv. Commun. Technol.
+                                                )
+
+                                            [2] => Array
+                                                (
+                                                    [@type] => p
+                                                    [sourcetitle] => Proceedings of the 1st IEEE International Conference on Wireless Broadband and Ultra Wideband Communications, AusWireless 2006
+                                                    [sourcetitle-abbrev] => Proc. IEEE Int. Conf. Wirel. Broadb. Ultra Wideband Commun., AusWireless
+                                                )
+
+                                            [3] => Array
+                                                (
+                                                    [@type] => j
+                                                    [sourcetitle] => Set-Valued Analysis
+                                                    [sourcetitle-abbrev] => Set-Valued Anal.
+                                                    [issn] => 09276947
+                                                )
+
+                                            [4] => Array
+                                                (
+                                                    [@type] => j
+                                                    [sourcetitle] => Siberian Mathematical Journal
+                                                    [sourcetitle-abbrev] => Sib Math J
+                                                    [issn] => 00374466
+                                                )
+
+                                            [5] => Array
+                                                (
+                                                    [@type] => j
+                                                    [sourcetitle] => ANZIAM Journal
+                                                    [sourcetitle-abbrev] => ANZIAM J.
+                                                    [issn] => 14461811
+                                                )
+
+                                            [6] => Array
+                                                (
+                                                    [@type] => j
+                                                    [sourcetitle] => Nonlinear Analysis, Theory, Methods and Applications
+                                                    [sourcetitle-abbrev] => Nonlinear Anal Theory Methods Appl
+                                                    [issn] => 0362546X
+                                                )
+
+                                            [7] => Array
+                                                (
+                                                    [@type] => j
+                                                    [sourcetitle] => Journal of Mathematical Analysis and Applications
+                                                    [sourcetitle-abbrev] => J. Math. Anal. Appl.
+                                                    [issn] => 0022247X
+                                                )
+
+                                            [8] => Array
+                                                (
+                                                    [@type] => j
+                                                    [sourcetitle] => Optimization
+                                                    [sourcetitle-abbrev] => Optimization
+                                                    [issn] => 02331934
+                                                )
+
+                                            [9] => Array
+                                                (
+                                                    [@type] => j
+                                                    [sourcetitle] => Journal of Global Optimization
+                                                    [sourcetitle-abbrev] => J of Global Optim
+                                                    [issn] => 09255001
+                                                )
+
+                                            [10] => Array
+                                                (
+                                                    [@type] => j
+                                                    [sourcetitle] => Positivity
+                                                    [sourcetitle-abbrev] => Positivity
+                                                    [issn] => 13851292
+                                                )
+
+                                            [11] => Array
+                                                (
+                                                    [@type] => p
+                                                    [sourcetitle] => 4th Annual International Conference on Mobile Business, ICMB 2005
+                                                    [sourcetitle-abbrev] => Annu. Int. Conf. Mob. Bus., ICMB
+                                                )
+
+                                            [12] => Array
+                                                (
+                                                    [@type] => j
+                                                    [sourcetitle] => Journal of Convex Analysis
+                                                    [sourcetitle-abbrev] => J. Convex Anal.
+                                                    [issn] => 09446532
+                                                )
+
+                                            [13] => Array
+                                                (
+                                                    [@type] => k
+                                                    [sourcetitle] => IFIP International Federation for Information Processing
+                                                    [sourcetitle-abbrev] => IFIP Int. Fed. Inf. Process.
+                                                    [issn] => 15715736
+                                                )
+
+                                            [14] => Array
+                                                (
+                                                    [@type] => j
+                                                    [sourcetitle] => Journal of Optimization Theory and Applications
+                                                    [sourcetitle-abbrev] => J. Optim. Theory Appl.
+                                                    [issn] => 00223239
+                                                )
+
+                                            [15] => Array
+                                                (
+                                                    [@type] => j
+                                                    [sourcetitle] => Set-Valued and Variational Analysis
+                                                    [sourcetitle-abbrev] => Set-Valued Var. Anal.
+                                                    [issn] => 09276947
+                                                )
+
+                                            [16] => Array
+                                                (
+                                                    [@type] => j
+                                                    [sourcetitle] => TOP
+                                                    [sourcetitle-abbrev] => TOP
+                                                    [issn] => 11345764
+                                                )
+
+                                            [17] => Array
+                                                (
+                                                    [@type] => p
+                                                    [sourcetitle] => IEEE Vehicular Technology Conference
+                                                    [sourcetitle-abbrev] => IEEE Veh Technol Conf
+                                                    [issn] => 15502252
+                                                )
+
+                                            [18] => Array
+                                                (
+                                                    [@type] => j
+                                                    [sourcetitle] => TOP
+                                                    [sourcetitle-abbrev] => TOP
+                                                    [issn] => 18638279
+                                                )
+
+                                            [19] => Array
+                                                (
+                                                    [@type] => j
+                                                    [sourcetitle] => SIAM Journal on Optimization
+                                                    [sourcetitle-abbrev] => SIAM J. Optim.
+                                                    [issn] => 10526234
+                                                )
+
+                                            [20] => Array
+                                                (
+                                                    [@type] => j
+                                                    [sourcetitle] => Taiwanese Journal of Mathematics
+                                                    [sourcetitle-abbrev] => Taiwanese J. Math.
+                                                    [issn] => 10275487
+                                                )
+
+                                            [21] => Array
+                                                (
+                                                    [@type] => j
+                                                    [sourcetitle] => Optimization
+                                                    [sourcetitle-abbrev] => Optimization
+                                                    [issn] => 10294945
+                                                )
+
+                                        )
+
+                                )
+
+                            [affiliation-current] => Array
+                                (
+                                    [affiliation] => Array
+                                        (
+                                            [@affiliation-id] => 114425601
+                                            [@parent] => 114424665
+                                            [ip-doc] => Array
+                                                (
+                                                    [@id] => 114425601
+                                                    [@relationship] => author
+                                                    [@type] => dept
+                                                    [afdispname] => Federation University Australia, School of Science, Information Technology and Engineering
+                                                    [preferred-name] => School of Science, Information Technology and Engineering
+                                                    [parent-preferred-name] => Federation University Australia
+                                                    [sort-name] => School of Science, Information Technology and Engineering
+                                                    [address] => Array
+                                                        (
+                                                            [@country] => aus
+                                                            [address-part] => PO Box 663, Ballarat, VIC, null3353
+                                                            [city] => Ballarat
+                                                            [state] => vic
+                                                            [postal-code] => 3353
+                                                            [country] => Australia
+                                                        )
+
+                                                )
+
+                                        )
+
+                                )
+
+                            [affiliation-history] => Array
+                                (
+                                    [affiliation] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [@affiliation-id] => 114425601
+                                                    [@parent] => 114424665
+                                                    [ip-doc] => Array
+                                                        (
+                                                            [@id] => 114425601
+                                                            [@relationship] => author
+                                                            [@type] => dept
+                                                            [afdispname] => Federation University Australia, School of Science, Information Technology and Engineering
+                                                            [preferred-name] => School of Science, Information Technology and Engineering
+                                                            [parent-preferred-name] => Federation University Australia
+                                                            [sort-name] => School of Science, Information Technology and Engineering
+                                                            [address] => Array
+                                                                (
+                                                                    [@country] => aus
+                                                                    [address-part] => PO Box 663, Ballarat, VIC, null3353
+                                                                    [city] => Ballarat
+                                                                    [state] => vic
+                                                                    [postal-code] => 3353
+                                                                    [country] => Australia
+                                                                )
+
+                                                        )
+
+                                                )
+
+                                            [1] => Array
+                                                (
+                                                    [@affiliation-id] => 114231164
+                                                    [@parent] => 114116038
+                                                    [ip-doc] => Array
+                                                        (
+                                                            [@id] => 114231164
+                                                            [@relationship] => author
+                                                            [@type] => dept
+                                                        )
+
+                                                )
+
+                                            [2] => Array
+                                                (
+                                                    [@affiliation-id] => 112848127
+                                                    [@parent] => 60010859
+                                                    [ip-doc] => Array
+                                                        (
+                                                            [@id] => 112848127
+                                                            [@relationship] => author
+                                                            [@type] => dept
+                                                            [afdispname] => Federation University Australia, School of Sciences
+                                                            [preferred-name] => School of Sciences
+                                                            [parent-preferred-name] => Federation University Australia
+                                                            [sort-name] => School of Sciences
+                                                            [address] => Array
+                                                                (
+                                                                    [@country] => aus
+                                                                    [address-part] => P.O. Box 663
+                                                                    [city] => Ballarat
+                                                                    [state] => vic
+                                                                    [postal-code] => 3353
+                                                                    [country] => Australia
+                                                                )
+
+                                                            [org-domain] => ballarat.edu.au
+                                                            [org-URL] => http://www.ballarat.edu.au
+                                                        )
+
+                                                )
+
+                                            [3] => Array
+                                                (
+                                                    [@affiliation-id] => 103587040
+                                                    [@parent] => 60010859
+                                                    [ip-doc] => Array
+                                                        (
+                                                            [@id] => 103587040
+                                                            [@relationship] => author
+                                                            [@type] => dept
+                                                            [afdispname] => Federation University Australia, School of Information Technology and Mathematical Sciences
+                                                            [preferred-name] => School of Information Technology and Mathematical Sciences
+                                                            [parent-preferred-name] => Federation University Australia
+                                                            [sort-name] => School of Information Technology and Mathematical Sciences
+                                                            [address] => Array
+                                                                (
+                                                                    [@country] => aus
+                                                                    [address-part] => P.O. Box 663
+                                                                    [city] => Ballarat
+                                                                    [state] => vic
+                                                                    [postal-code] => 3353
+                                                                    [country] => Australia
+                                                                )
+
+                                                            [org-domain] => ballarat.edu.au
+                                                            [org-URL] => http://www.ballarat.edu.au
+                                                        )
+
+                                                )
+
+                                            [4] => Array
+                                                (
+                                                    [@affiliation-id] => 60010859
+                                                    [ip-doc] => Array
+                                                        (
+                                                            [@id] => 60010859
+                                                            [@relationship] => author
+                                                            [@type] => parent
+                                                            [afnameid] => Federation University Australia#60010859
+                                                            [afdispname] => Federation University Australia
+                                                            [manual-curation] => Array
+                                                                (
+                                                                    [@curated] => true
+                                                                    [date-curation] => Array
+                                                                        (
+                                                                            [@day] => 15
+                                                                            [@month] => 04
+                                                                            [@timestamp] => 2014-04-15T10:33:48.004+01:00
+                                                                            [@year] => 2014
+                                                                        )
+
+                                                                    [curation-source] => QABOAPI
+                                                                    [curation-type] => QABO-482970
+                                                                )
+
+                                                            [preferred-name] => Federation University Australia
+                                                            [sort-name] => Ballarat, University of
+                                                            [address] => Array
+                                                                (
+                                                                    [@country] => aus
+                                                                    [address-part] => P.O. Box 663
+                                                                    [city] => Ballarat
+                                                                    [state] => vic
+                                                                    [postal-code] => 3353
+                                                                    [country] => Australia
+                                                                )
+
+                                                            [org-domain] => ballarat.edu.au
+                                                            [org-URL] => http://www.ballarat.edu.au
+                                                        )
+
+                                                )
+
+                                            [5] => Array
+                                                (
+                                                    [@affiliation-id] => 103587043
+                                                    [@parent] => 60010859
+                                                    [ip-doc] => Array
+                                                        (
+                                                            [@id] => 103587043
+                                                            [@relationship] => author
+                                                            [@type] => dept
+                                                            [afdispname] => Federation University Australia, Centre for Informatics and Applied Optimization
+                                                            [preferred-name] => Centre for Informatics and Applied Optimization
+                                                            [parent-preferred-name] => Federation University Australia
+                                                            [sort-name] => Centre for Informatics and Applied Optimization
+                                                            [address] => Array
+                                                                (
+                                                                    [@country] => aus
+                                                                    [address-part] => P.O. Box 663
+                                                                    [city] => Ballarat
+                                                                    [state] => vic
+                                                                    [postal-code] => 3353
+                                                                    [country] => Australia
+                                                                )
+
+                                                            [org-domain] => ballarat.edu.au
+                                                            [org-URL] => http://www.ballarat.edu.au
+                                                        )
+
+                                                )
+
+                                            [6] => Array
+                                                (
+                                                    [@affiliation-id] => 114663513
+                                                    [@parent] => 114662333
+                                                    [ip-doc] => Array
+                                                        (
+                                                            [@id] => 114663513
+                                                            [@relationship] => author
+                                                            [@type] => dept
+                                                            [afdispname] => University of Ballurat, School of Information Technology and Mathematical Sciences
+                                                            [preferred-name] => School of Information Technology and Mathematical Sciences
+                                                            [parent-preferred-name] => University of Ballurat
+                                                            [sort-name] => School of Information Technology and Mathematical Sciences
+                                                            [address] => Array
+                                                                (
+                                                                    [@country] => aus
+                                                                    [address-part] => Ballorat
+                                                                    [state] => vic
+                                                                    [postal-code] => 3353
+                                                                    [country] => Australia
+                                                                )
+
+                                                        )
+
+                                                )
+
+                                            [7] => Array
+                                                (
+                                                    [@affiliation-id] => 102878855
+                                                    [@parent] => 101452896
+                                                    [ip-doc] => Array
+                                                        (
+                                                            [@id] => 102878855
+                                                            [@relationship] => author
+                                                            [@type] => dept
+                                                            [afdispname] => Intl. Inst. of Labour/Social Rel., Dept. of Info. Tech. and Mathematics
+                                                            [preferred-name] => Dept. of Info. Tech. and Mathematics
+                                                            [parent-preferred-name] => Intl. Inst. of Labour/Social Rel.
+                                                            [sort-name] => Intl. Inst. of Labour/Social Rel., Dept. of Info. Tech. and Mathematics
+                                                            [address] => Array
+                                                                (
+                                                                    [@country] => blr
+                                                                    [address-part] => Kazintsa St. 21/3
+                                                                    [city] => Minsk
+                                                                    [postal-code] => 220099
+                                                                    [country] => Belarus
+                                                                )
+
+                                                        )
+
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+Getting Elsevier data for Mammadov, Musa...
+Array
+(
+    [author-retrieval-response] => Array
+        (
+            [0] => Array
+                (
+                    [@_fa] => true
+                    [@status] => found
+                    [coredata] => Array
+                        (
+                            [prism:url] => http://api.elsevier.com/content/author/author_id/15127216400
+                            [dc:identifier] => AUTHOR_ID:15127216400
+                            [eid] => 9-s2.0-15127216400
+                            [document-count] => 55
+                            [cited-by-count] => 222
+                            [citation-count] => 280
+                            [link] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [@_fa] => true
+                                            [@href] => http://api.elsevier.com/content/search/scopus?query=refauid%2815127216400%29
+                                            [@rel] => scopus-citedby
+                                        )
+
+                                    [1] => Array
+                                        (
+                                            [@_fa] => true
+                                            [@href] => http://www.scopus.com/authid/detail.url?partnerID=HzOxMe3b&authorId=15127216400&origin=inward
+                                            [@rel] => scopus-author
+                                        )
+
+                                    [2] => Array
+                                        (
+                                            [@_fa] => true
+                                            [@href] => http://api.elsevier.com/content/author/author_id/15127216400
+                                            [@rel] => self
+                                        )
+
+                                    [3] => Array
+                                        (
+                                            [@_fa] => true
+                                            [@href] => http://api.elsevier.com/content/search/scopus?query=au-id%2815127216400%29
+                                            [@rel] => search
+                                        )
+
+                                )
+
+                        )
+
+                    [affiliation-current] => Array
+                        (
+                            [@href] => http://api.elsevier.com/content/affiliation/affiliation_id/60026553
+                            [@id] => 60026553
+                        )
+
+                    [affiliation-history] => Array
+                        (
+                            [affiliation] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [@_fa] => true
+                                            [@href] => http://api.elsevier.com/content/affiliation/affiliation_id/60026553
+                                            [@id] => 60026553
+                                        )
+
+                                    [1] => Array
+                                        (
+                                            [@_fa] => true
+                                            [@href] => http://api.elsevier.com/content/affiliation/affiliation_id/114116038
+                                            [@id] => 114116038
+                                        )
+
+                                    [2] => Array
+                                        (
+                                            [@_fa] => true
+                                            [@href] => http://api.elsevier.com/content/affiliation/affiliation_id/60029420
+                                            [@id] => 60029420
+                                        )
+
+                                    [3] => Array
+                                        (
+                                            [@_fa] => true
+                                            [@href] => http://api.elsevier.com/content/affiliation/affiliation_id/100961873
+                                            [@id] => 100961873
+                                        )
+
+                                    [4] => Array
+                                        (
+                                            [@_fa] => true
+                                            [@href] => http://api.elsevier.com/content/affiliation/affiliation_id/60010859
+                                            [@id] => 60010859
+                                        )
+
+                                )
+
+                        )
+
+                    [subject-areas] => Array
+                        (
+                            [subject-area] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [@_fa] => true
+                                            [@abbrev] => MATH
+                                            [@code] => 2611
+                                            [$] => Modeling and Simulation
+                                        )
+
+                                    [1] => Array
+                                        (
+                                            [@_fa] => true
+                                            [@abbrev] => PHYS
+                                            [@code] => 3104
+                                            [$] => Condensed Matter Physics
+                                        )
+
+                                    [2] => Array
+                                        (
+                                            [@_fa] => true
+                                            [@abbrev] => DECI
+                                            [@code] => 1802
+                                            [$] => Information Systems and Management
+                                        )
+
+                                    [3] => Array
+                                        (
+                                            [@_fa] => true
+                                            [@abbrev] => MATH
+                                            [@code] => 2604
+                                            [$] => Applied Mathematics
+                                        )
+
+                                    [4] => Array
+                                        (
+                                            [@_fa] => true
+                                            [@abbrev] => MATH
+                                            [@code] => 2606
+                                            [$] => Control and Optimization
+                                        )
+
+                                    [5] => Array
+                                        (
+                                            [@_fa] => true
+                                            [@abbrev] => MATH
+                                            [@code] => 2601
+                                            [$] => Mathematics (miscellaneous)
+                                        )
+
+                                    [6] => Array
+                                        (
+                                            [@_fa] => true
+                                            [@abbrev] => ENGI
+                                            [@code] => 2208
+                                            [$] => Electrical and Electronic Engineering
+                                        )
+
+                                    [7] => Array
+                                        (
+                                            [@_fa] => true
+                                            [@abbrev] => DECI
+                                            [@code] => 1800
+                                            [$] => Decision Sciences (all)
+                                        )
+
+                                    [8] => Array
+                                        (
+                                            [@_fa] => true
+                                            [@abbrev] => MATH
+                                            [@code] => 2614
+                                            [$] => Theoretical Computer Science
+                                        )
+
+                                    [9] => Array
+                                        (
+                                            [@_fa] => true
+                                            [@abbrev] => COMP
+                                            [@code] => 1703
+                                            [$] => Computational Theory and Mathematics
+                                        )
+
+                                    [10] => Array
+                                        (
+                                            [@_fa] => true
+                                            [@abbrev] => MATH
+                                            [@code] => 2613
+                                            [$] => Statistics and Probability
+                                        )
+
+                                    [11] => Array
+                                        (
+                                            [@_fa] => true
+                                            [@abbrev] => ENGI
+                                            [@code] => 2200
+                                            [$] => Engineering (all)
+                                        )
+
+                                    [12] => Array
+                                        (
+                                            [@_fa] => true
+                                            [@abbrev] => ENGI
+                                            [@code] => 2211
+                                            [$] => Mechanics of Materials
+                                        )
+
+                                    [13] => Array
+                                        (
+                                            [@_fa] => true
+                                            [@abbrev] => COMP
+                                            [@code] => 1700
+                                            [$] => Computer Science (all)
+                                        )
+
+                                    [14] => Array
+                                        (
+                                            [@_fa] => true
+                                            [@abbrev] => DECI
+                                            [@code] => 1804
+                                            [$] => Statistics, Probability and Uncertainty
+                                        )
+
+                                    [15] => Array
+                                        (
+                                            [@_fa] => true
+                                            [@abbrev] => COMP
+                                            [@code] => 1710
+                                            [$] => Information Systems
+                                        )
+
+                                    [16] => Array
+                                        (
+                                            [@_fa] => true
+                                            [@abbrev] => COMP
+                                            [@code] => 1705
+                                            [$] => Computer Networks and Communications
+                                        )
+
+                                    [17] => Array
+                                        (
+                                            [@_fa] => true
+                                            [@abbrev] => MATH
+                                            [@code] => 2600
+                                            [$] => Mathematics (all)
+                                        )
+
+                                    [18] => Array
+                                        (
+                                            [@_fa] => true
+                                            [@abbrev] => ENGI
+                                            [@code] => 2201
+                                            [$] => Engineering (miscellaneous)
+                                        )
+
+                                    [19] => Array
+                                        (
+                                            [@_fa] => true
+                                            [@abbrev] => ENGI
+                                            [@code] => 2207
+                                            [$] => Control and Systems Engineering
+                                        )
+
+                                    [20] => Array
+                                        (
+                                            [@_fa] => true
+                                            [@abbrev] => MATH
+                                            [@code] => 2612
+                                            [$] => Numerical Analysis
+                                        )
+
+                                    [21] => Array
+                                        (
+                                            [@_fa] => true
+                                            [@abbrev] => SOCI
+                                            [@code] => 3313
+                                            [$] => Transportation
+                                        )
+
+                                    [22] => Array
+                                        (
+                                            [@_fa] => true
+                                            [@abbrev] => COMP
+                                            [@code] => 1704
+                                            [$] => Computer Graphics and Computer-Aided Design
+                                        )
+
+                                    [23] => Array
+                                        (
+                                            [@_fa] => true
+                                            [@abbrev] => CENG
+                                            [@code] => 1504
+                                            [$] => Chemical Health and Safety
+                                        )
+
+                                    [24] => Array
+                                        (
+                                            [@_fa] => true
+                                            [@abbrev] => MATH
+                                            [@code] => 2602
+                                            [$] => Algebra and Number Theory
+                                        )
+
+                                    [25] => Array
+                                        (
+                                            [@_fa] => true
+                                            [@abbrev] => COMP
+                                            [@code] => 1702
+                                            [$] => Artificial Intelligence
+                                        )
+
+                                    [26] => Array
+                                        (
+                                            [@_fa] => true
+                                            [@abbrev] => COMP
+                                            [@code] => 1712
+                                            [$] => Software
+                                        )
+
+                                    [27] => Array
+                                        (
+                                            [@_fa] => true
+                                            [@abbrev] => COMP
+                                            [@code] => 1707
+                                            [$] => Computer Vision and Pattern Recognition
+                                        )
+
+                                    [28] => Array
+                                        (
+                                            [@_fa] => true
+                                            [@abbrev] => MATH
+                                            [@code] => 2607
+                                            [$] => Discrete Mathematics and Combinatorics
+                                        )
+
+                                    [29] => Array
+                                        (
+                                            [@_fa] => true
+                                            [@abbrev] => COMP
+                                            [@code] => 1701
+                                            [$] => Computer Science (miscellaneous)
+                                        )
+
+                                    [30] => Array
+                                        (
+                                            [@_fa] => true
+                                            [@abbrev] => PHYS
+                                            [@code] => 3102
+                                            [$] => Acoustics and Ultrasonics
+                                        )
+
+                                    [31] => Array
+                                        (
+                                            [@_fa] => true
+                                            [@abbrev] => DECI
+                                            [@code] => 1803
+                                            [$] => Management Science and Operations Research
+                                        )
+
+                                    [32] => Array
+                                        (
+                                            [@_fa] => true
+                                            [@abbrev] => SOCI
+                                            [@code] => 3315
+                                            [$] => Communication
+                                        )
+
+                                    [33] => Array
+                                        (
+                                            [@_fa] => true
+                                            [@abbrev] => ENGI
+                                            [@code] => 2213
+                                            [$] => Safety, Risk, Reliability and Quality
+                                        )
+
+                                    [34] => Array
+                                        (
+                                            [@_fa] => true
+                                            [@abbrev] => COMP
+                                            [@code] => 1706
+                                            [$] => Computer Science Applications
+                                        )
+
+                                    [35] => Array
+                                        (
+                                            [@_fa] => true
+                                            [@abbrev] => COMP
+                                            [@code] => 1711
+                                            [$] => Signal Processing
+                                        )
+
+                                    [36] => Array
+                                        (
+                                            [@_fa] => true
+                                            [@abbrev] => COMP
+                                            [@code] => 1708
+                                            [$] => Hardware and Architecture
+                                        )
+
+                                    [37] => Array
+                                        (
+                                            [@_fa] => true
+                                            [@abbrev] => MATH
+                                            [@code] => 2603
+                                            [$] => Analysis
+                                        )
+
+                                    [38] => Array
+                                        (
+                                            [@_fa] => true
+                                            [@abbrev] => ENGI
+                                            [@code] => 2210
+                                            [$] => Mechanical Engineering
+                                        )
+
+                                    [39] => Array
+                                        (
+                                            [@_fa] => true
+                                            [@abbrev] => MATH
+                                            [@code] => 2605
+                                            [$] => Computational Mathematics
+                                        )
+
+                                    [40] => Array
+                                        (
+                                            [@_fa] => true
+                                            [@abbrev] => MATH
+                                            [@code] => 2609
+                                            [$] => Logic
+                                        )
+
+                                )
+
+                        )
+
+                    [author-profile] => Array
+                        (
+                            [status] => update
+                            [date-created] => Array
+                                (
+                                    [@day] => 16
+                                    [@month] => 12
+                                    [@year] => 2006
+                                )
+
+                            [preferred-name] => Array
+                                (
+                                    [initials] => M.
+                                    [indexed-name] => Mammadov M.
+                                    [surname] => Mammadov
+                                    [given-name] => Musa
+                                )
+
+                            [name-variant] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [initials] => M.
+                                            [indexed-name] => Mammadov M.
+                                            [surname] => Mammadov
+                                            [given-name] => 
+                                        )
+
+                                    [1] => Array
+                                        (
+                                            [initials] => M.A.
+                                            [indexed-name] => Mamedov M.A.
+                                            [surname] => Mamedov
+                                            [given-name] => Musa A.
+                                        )
+
+                                    [2] => Array
+                                        (
+                                            [initials] => M.A.
+                                            [indexed-name] => Mammadov M.
+                                            [surname] => Mammadov
+                                            [given-name] => M. A.
+                                        )
+
+                                    [3] => Array
+                                        (
+                                            [initials] => M.A.
+                                            [indexed-name] => Mammadov M.A.
+                                            [surname] => Mammadov
+                                            [given-name] => Musa A.
+                                        )
+
+                                    [4] => Array
+                                        (
+                                            [initials] => M.
+                                            [indexed-name] => Mammadov M.
+                                            [surname] => Mammadov
+                                            [given-name] => M.
+                                        )
+
+                                    [5] => Array
+                                        (
+                                            [initials] => M.A.
+                                            [indexed-name] => Mamedov M.A.
+                                            [surname] => Mamedov
+                                            [given-name] => 
+                                        )
+
+                                )
+
+                            [classificationgroup] => Array
+                                (
+                                    [classifications] => Array
+                                        (
+                                            [@type] => ASJC
+                                            [classification] => Array
+                                                (
+                                                    [0] => Array
+                                                        (
+                                                            [@frequency] => 3
+                                                            [$] => 2611
+                                                        )
+
+                                                    [1] => Array
+                                                        (
+                                                            [@frequency] => 1
+                                                            [$] => 3104
+                                                        )
+
+                                                    [2] => Array
+                                                        (
+                                                            [@frequency] => 3
+                                                            [$] => 1802
+                                                        )
+
+                                                    [3] => Array
+                                                        (
+                                                            [@frequency] => 21
+                                                            [$] => 2604
+                                                        )
+
+                                                    [4] => Array
+                                                        (
+                                                            [@frequency] => 13
+                                                            [$] => 2606
+                                                        )
+
+                                                    [5] => Array
+                                                        (
+                                                            [@frequency] => 3
+                                                            [$] => 2601
+                                                        )
+
+                                                    [6] => Array
+                                                        (
+                                                            [@frequency] => 4
+                                                            [$] => 2208
+                                                        )
+
+                                                    [7] => Array
+                                                        (
+                                                            [@frequency] => 1
+                                                            [$] => 1800
+                                                        )
+
+                                                    [8] => Array
+                                                        (
+                                                            [@frequency] => 4
+                                                            [$] => 2614
+                                                        )
+
+                                                    [9] => Array
+                                                        (
+                                                            [@frequency] => 1
+                                                            [$] => 1703
+                                                        )
+
+                                                    [10] => Array
+                                                        (
+                                                            [@frequency] => 2
+                                                            [$] => 2613
+                                                        )
+
+                                                    [11] => Array
+                                                        (
+                                                            [@frequency] => 3
+                                                            [$] => 2200
+                                                        )
+
+                                                    [12] => Array
+                                                        (
+                                                            [@frequency] => 1
+                                                            [$] => 2211
+                                                        )
+
+                                                    [13] => Array
+                                                        (
+                                                            [@frequency] => 3
+                                                            [$] => 1700
+                                                        )
+
+                                                    [14] => Array
+                                                        (
+                                                            [@frequency] => 1
+                                                            [$] => 1804
+                                                        )
+
+                                                    [15] => Array
+                                                        (
+                                                            [@frequency] => 5
+                                                            [$] => 1710
+                                                        )
+
+                                                    [16] => Array
+                                                        (
+                                                            [@frequency] => 5
+                                                            [$] => 1705
+                                                        )
+
+                                                    [17] => Array
+                                                        (
+                                                            [@frequency] => 4
+                                                            [$] => 2600
+                                                        )
+
+                                                    [18] => Array
+                                                        (
+                                                            [@frequency] => 1
+                                                            [$] => 2201
+                                                        )
+
+                                                    [19] => Array
+                                                        (
+                                                            [@frequency] => 3
+                                                            [$] => 2207
+                                                        )
+
+                                                    [20] => Array
+                                                        (
+                                                            [@frequency] => 1
+                                                            [$] => 2612
+                                                        )
+
+                                                    [21] => Array
+                                                        (
+                                                            [@frequency] => 1
+                                                            [$] => 3313
+                                                        )
+
+                                                    [22] => Array
+                                                        (
+                                                            [@frequency] => 2
+                                                            [$] => 1704
+                                                        )
+
+                                                    [23] => Array
+                                                        (
+                                                            [@frequency] => 1
+                                                            [$] => 1504
+                                                        )
+
+                                                    [24] => Array
+                                                        (
+                                                            [@frequency] => 1
+                                                            [$] => 2602
+                                                        )
+
+                                                    [25] => Array
+                                                        (
+                                                            [@frequency] => 3
+                                                            [$] => 1702
+                                                        )
+
+                                                    [26] => Array
+                                                        (
+                                                            [@frequency] => 8
+                                                            [$] => 1712
+                                                        )
+
+                                                    [27] => Array
+                                                        (
+                                                            [@frequency] => 1
+                                                            [$] => 1707
+                                                        )
+
+                                                    [28] => Array
+                                                        (
+                                                            [@frequency] => 1
+                                                            [$] => 2607
+                                                        )
+
+                                                    [29] => Array
+                                                        (
+                                                            [@frequency] => 1
+                                                            [$] => 1701
+                                                        )
+
+                                                    [30] => Array
+                                                        (
+                                                            [@frequency] => 1
+                                                            [$] => 3102
+                                                        )
+
+                                                    [31] => Array
+                                                        (
+                                                            [@frequency] => 11
+                                                            [$] => 1803
+                                                        )
+
+                                                    [32] => Array
+                                                        (
+                                                            [@frequency] => 1
+                                                            [$] => 3315
+                                                        )
+
+                                                    [33] => Array
+                                                        (
+                                                            [@frequency] => 1
+                                                            [$] => 2213
+                                                        )
+
+                                                    [34] => Array
+                                                        (
+                                                            [@frequency] => 9
+                                                            [$] => 1706
+                                                        )
+
+                                                    [35] => Array
+                                                        (
+                                                            [@frequency] => 1
+                                                            [$] => 1711
+                                                        )
+
+                                                    [36] => Array
+                                                        (
+                                                            [@frequency] => 2
+                                                            [$] => 1708
+                                                        )
+
+                                                    [37] => Array
+                                                        (
+                                                            [@frequency] => 4
+                                                            [$] => 2603
+                                                        )
+
+                                                    [38] => Array
+                                                        (
+                                                            [@frequency] => 2
+                                                            [$] => 2210
+                                                        )
+
+                                                    [39] => Array
+                                                        (
+                                                            [@frequency] => 7
+                                                            [$] => 2605
+                                                        )
+
+                                                    [40] => Array
+                                                        (
+                                                            [@frequency] => 1
+                                                            [$] => 2609
+                                                        )
+
+                                                )
+
+                                        )
+
+                                )
+
+                            [publication-range] => Array
+                                (
+                                    [@end] => 2015
+                                    [@start] => 2000
+                                )
+
+                            [journal-history] => Array
+                                (
+                                    [@type] => author
+                                    [journal] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [@type] => p
+                                                    [sourcetitle] => Proceedings of the 1st IEEE International Conference on Wireless Broadband and Ultra Wideband Communications, AusWireless 2006
+                                                    [sourcetitle-abbrev] => Proc. IEEE Int. Conf. Wirel. Broadb. Ultra Wideband Commun., AusWireless
+                                                )
+
+                                            [1] => Array
+                                                (
+                                                    [@type] => p
+                                                    [sourcetitle] => Proceedings - IEEE International Conference on Data Mining, ICDM
+                                                    [sourcetitle-abbrev] => Proc. IEEE Int. Conf. Data Min. ICDM
+                                                    [issn] => 15504786
+                                                )
+
+                                            [2] => Array
+                                                (
+                                                    [@type] => j
+                                                    [sourcetitle] => Optimization Methods and Software
+                                                    [sourcetitle-abbrev] => Optim Method Software
+                                                    [issn] => 10556788
+                                                )
+
+                                            [3] => Array
+                                                (
+                                                    [@type] => j
+                                                    [sourcetitle] => ANZIAM Journal
+                                                    [sourcetitle-abbrev] => ANZIAM J.
+                                                    [issn] => 14461811
+                                                )
+
+                                            [4] => Array
+                                                (
+                                                    [@type] => j
+                                                    [sourcetitle] => Optimization
+                                                    [sourcetitle-abbrev] => Optimization
+                                                    [issn] => 02331934
+                                                )
+
+                                            [5] => Array
+                                                (
+                                                    [@type] => j
+                                                    [sourcetitle] => Journal of Global Optimization
+                                                    [sourcetitle-abbrev] => J of Global Optim
+                                                    [issn] => 09255001
+                                                )
+
+                                            [6] => Array
+                                                (
+                                                    [@type] => j
+                                                    [sourcetitle] => Optimization Letters
+                                                    [sourcetitle-abbrev] => Optim. Lett.
+                                                    [issn] => 18624480
+                                                )
+
+                                            [7] => Array
+                                                (
+                                                    [@type] => j
+                                                    [sourcetitle] => Discrete and Continuous Dynamical Systems- Series A
+                                                    [sourcetitle-abbrev] => Discrete Contin. Dyn. Syst. Ser A
+                                                    [issn] => 10780947
+                                                )
+
+                                            [8] => Array
+                                                (
+                                                    [@type] => j
+                                                    [sourcetitle] => Journal of Applied Mathematics and Decision Sciences
+                                                    [sourcetitle-abbrev] => J. Appl. Math. Decis. Sci.
+                                                    [issn] => 11739126
+                                                )
+
+                                            [9] => Array
+                                                (
+                                                    [@type] => j
+                                                    [sourcetitle] => Semigroup Forum
+                                                    [sourcetitle-abbrev] => Semigroup Forum
+                                                    [issn] => 00371912
+                                                )
+
+                                            [10] => Array
+                                                (
+                                                    [@type] => j
+                                                    [sourcetitle] => Journal of Optimization Theory and Applications
+                                                    [sourcetitle-abbrev] => J. Optim. Theory Appl.
+                                                    [issn] => 00223239
+                                                )
+
+                                            [11] => Array
+                                                (
+                                                    [@type] => p
+                                                    [sourcetitle] => 2010 IEEE International Conference on Information and Automation, ICIA 2010
+                                                    [sourcetitle-abbrev] => IEEE Int. Conf. Inf. Autom., ICIA
+                                                )
+
+                                            [12] => Array
+                                                (
+                                                    [@type] => j
+                                                    [sourcetitle] => Journal of Sound and Vibration
+                                                    [sourcetitle-abbrev] => J Sound Vib
+                                                    [issn] => 0022460X
+                                                )
+
+                                            [13] => Array
+                                                (
+                                                    [@type] => p
+                                                    [sourcetitle] => IEEE Vehicular Technology Conference
+                                                    [sourcetitle-abbrev] => IEEE Veh Technol Conf
+                                                    [issn] => 15502252
+                                                )
+
+                                            [14] => Array
+                                                (
+                                                    [@type] => p
+                                                    [sourcetitle] => Proceedings of the 44th IEEE Conference on Decision and Control, and the European Control Conference, CDC-ECC '05
+                                                    [sourcetitle-abbrev] => Proc. 44th IEEE Conference Decision and Ctrl. Eur. Ctrl. Conf. CDC-ECC'05
+                                                )
+
+                                            [15] => Array
+                                                (
+                                                    [@type] => j
+                                                    [sourcetitle] => Journal of Mathematical Analysis and Applications
+                                                    [sourcetitle-abbrev] => J. Math. Anal. Appl.
+                                                    [issn] => 10960813
+                                                )
+
+                                            [16] => Array
+                                                (
+                                                    [@type] => p
+                                                    [sourcetitle] => IEEE International Conference on Fuzzy Systems
+                                                    [sourcetitle-abbrev] => IEEE Int Conf Fuzzy Syst
+                                                )
+
+                                            [17] => Array
+                                                (
+                                                    [@type] => j
+                                                    [sourcetitle] => Czechoslovak Mathematical Journal
+                                                    [sourcetitle-abbrev] => Czech. Math. J.
+                                                    [issn] => 00114642
+                                                )
+
+                                            [18] => Array
+                                                (
+                                                    [@type] => j
+                                                    [sourcetitle] => Computational Optimization and Applications
+                                                    [sourcetitle-abbrev] => Comput Optim Appl
+                                                    [issn] => 09266003
+                                                )
+
+                                            [19] => Array
+                                                (
+                                                    [@type] => j
+                                                    [sourcetitle] => Computers and Operations Research
+                                                    [sourcetitle-abbrev] => Comp. Oper. Res.
+                                                    [issn] => 03050548
+                                                )
+
+                                            [20] => Array
+                                                (
+                                                    [@type] => p
+                                                    [sourcetitle] => 20th International Conference EURO Mini Conference "Continuous Optimization and Knowledge-Based Technologies", EurOPT 2008
+                                                    [sourcetitle-abbrev] => Int. Conf. EURO Mini Conf.
+                                                )
+
+                                            [21] => Array
+                                                (
+                                                    [@type] => j
+                                                    [sourcetitle] => Applied Mathematics and Computation
+                                                    [sourcetitle-abbrev] => Appl. Math. Comput.
+                                                    [issn] => 00963003
+                                                )
+
+                                            [22] => Array
+                                                (
+                                                    [@type] => p
+                                                    [sourcetitle] => Proceedings - 2010 International Conference on Advances in Social Network Analysis and Mining, ASONAM 2010
+                                                    [sourcetitle-abbrev] => Proc. - Int. Conf. Adv. Soc. Netw. Anal. Min., ASONAM
+                                                )
+
+                                            [23] => Array
+                                                (
+                                                    [@type] => p
+                                                    [sourcetitle] => Proceedings of the IEEE International Conference on Industrial Technology
+                                                    [sourcetitle-abbrev] => Proc IEEE Int Conf Ind Technol
+                                                )
+
+                                            [24] => Array
+                                                (
+                                                    [@type] => j
+                                                    [sourcetitle] => Nonlinear Analysis, Theory, Methods and Applications
+                                                    [sourcetitle-abbrev] => Nonlinear Anal Theory Methods Appl
+                                                    [issn] => 0362546X
+                                                )
+
+                                            [25] => Array
+                                                (
+                                                    [@type] => j
+                                                    [sourcetitle] => Computers and Mathematics with Applications
+                                                    [sourcetitle-abbrev] => Comput Math Appl
+                                                    [issn] => 08981221
+                                                )
+
+                                            [26] => Array
+                                                (
+                                                    [@type] => j
+                                                    [sourcetitle] => Journal of Mathematical Analysis and Applications
+                                                    [sourcetitle-abbrev] => J. Math. Anal. Appl.
+                                                    [issn] => 0022247X
+                                                )
+
+                                            [27] => Array
+                                                (
+                                                    [@type] => j
+                                                    [sourcetitle] => Fuzzy Sets and Systems
+                                                    [sourcetitle-abbrev] => Fuzzy Sets Syst
+                                                    [issn] => 01650114
+                                                )
+
+                                            [28] => Array
+                                                (
+                                                    [@type] => p
+                                                    [sourcetitle] => Conferences in Research and Practice in Information Technology Series
+                                                    [sourcetitle-abbrev] => Conf. Res. Pract. Inf. Technol. Ser.
+                                                    [issn] => 14451336
+                                                )
+
+                                            [29] => Array
+                                                (
+                                                    [@type] => j
+                                                    [sourcetitle] => International Journal of Applied Mathematics and Computer Science
+                                                    [sourcetitle-abbrev] => Int. J. Appl. Math. Comput. Sci.
+                                                    [issn] => 1641876X
+                                                )
+
+                                            [30] => Array
+                                                (
+                                                    [@type] => k
+                                                    [sourcetitle] => Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+                                                    [sourcetitle-abbrev] => Lect. Notes Comput. Sci.
+                                                    [issn] => 03029743
+                                                )
+
+                                            [31] => Array
+                                                (
+                                                    [@type] => p
+                                                    [sourcetitle] => IEEE Asia-Pacific Conference on Circuits and Systems, Proceedings, APCCAS
+                                                    [sourcetitle-abbrev] => IEEE Aisa Pac. Conf. Circuits Syst. Proc. APCCAS
+                                                )
+
+                                            [32] => Array
+                                                (
+                                                    [@type] => p
+                                                    [sourcetitle] => 2010 8th IEEE International Conference on Control and Automation, ICCA 2010
+                                                    [sourcetitle-abbrev] => IEEE Int. Conf. Control Autom., ICCA
+                                                )
+
+                                            [33] => Array
+                                                (
+                                                    [@type] => j
+                                                    [sourcetitle] => Structural and Multidisciplinary Optimization
+                                                    [sourcetitle-abbrev] => Struct. Mutltidiscip. Opt.
+                                                    [issn] => 16151488
+                                                )
+
+                                            [34] => Array
+                                                (
+                                                    [@type] => j
+                                                    [sourcetitle] => Neural Computing and Applications
+                                                    [sourcetitle-abbrev] => Neural Comput. Appl.
+                                                    [issn] => 09410643
+                                                )
+
+                                            [35] => Array
+                                                (
+                                                    [@type] => j
+                                                    [sourcetitle] => Pacific Journal of Optimization
+                                                    [sourcetitle-abbrev] => Pac. J. Optim.
+                                                    [issn] => 13489151
+                                                )
+
+                                            [36] => Array
+                                                (
+                                                    [@type] => j
+                                                    [sourcetitle] => Abstract and Applied Analysis
+                                                    [sourcetitle-abbrev] => Abstr. Appl. Anal.
+                                                    [issn] => 10853375
+                                                )
+
+                                            [37] => Array
+                                                (
+                                                    [@type] => j
+                                                    [sourcetitle] => Asian-European Journal of Mathematics
+                                                    [sourcetitle-abbrev] => Asian-Eur. J. Math.
+                                                    [issn] => 17935571
+                                                )
+
+                                            [38] => Array
+                                                (
+                                                    [@type] => j
+                                                    [sourcetitle] => Far East Journal of Mathematical Sciences
+                                                    [sourcetitle-abbrev] => Far East J. Math. Sci.
+                                                    [issn] => 09720871
+                                                )
+
+                                            [39] => Array
+                                                (
+                                                    [@type] => j
+                                                    [sourcetitle] => European Journal of Operational Research
+                                                    [sourcetitle-abbrev] => Eur J Oper Res
+                                                    [issn] => 03772217
+                                                )
+
+                                            [40] => Array
+                                                (
+                                                    [@type] => p
+                                                    [sourcetitle] => Proceedings - 6th IEEE/ACIS International Conference on Computer and Information Science, ICIS 2007; 1st IEEE/ACIS International Workshop on e-Activity, IWEA 2007
+                                                    [sourcetitle-abbrev] => Proc. - IEEE/ACIS Int. Conf. Comput. Inf. Sci., ICIS; IEEE/ACIS Int. Workshop e-Act., IWEA
+                                                )
+
+                                            [41] => Array
+                                                (
+                                                    [@type] => j
+                                                    [sourcetitle] => SIAM Journal on Optimization
+                                                    [sourcetitle-abbrev] => SIAM J. Optim.
+                                                    [issn] => 10526234
+                                                )
+
+                                            [42] => Array
+                                                (
+                                                    [@type] => j
+                                                    [sourcetitle] => SIAM Journal on Control and Optimization
+                                                    [sourcetitle-abbrev] => SIAM J Control Optim
+                                                    [issn] => 03630129
+                                                )
+
+                                            [43] => Array
+                                                (
+                                                    [@type] => j
+                                                    [sourcetitle] => ANZIAM Journal
+                                                    [sourcetitle-abbrev] => ANZIAM J.
+                                                    [issn] => 14468735
+                                                )
+
+                                            [44] => Array
+                                                (
+                                                    [@type] => j
+                                                    [sourcetitle] => Archive of Applied Mechanics
+                                                    [sourcetitle-abbrev] => Arch Appl Mech
+                                                    [issn] => 09391533
+                                                )
+
+                                            [45] => Array
+                                                (
+                                                    [@type] => p
+                                                    [sourcetitle] => Integrating AI and Data Mining - 1st International Workshop Proceedings, AIDM 2006
+                                                    [sourcetitle-abbrev] => Integr AI Data Mining Int Workshop Proc, AIDM
+                                                )
+
+                                            [46] => Array
+                                                (
+                                                    [@type] => j
+                                                    [sourcetitle] => Optimization
+                                                    [sourcetitle-abbrev] => Optimization
+                                                    [issn] => 10294945
+                                                )
+
+                                        )
+
+                                )
+
+                            [affiliation-current] => Array
+                                (
+                                    [affiliation] => Array
+                                        (
+                                            [@affiliation-id] => 60026553
+                                            [ip-doc] => Array
+                                                (
+                                                    [@id] => 60026553
+                                                    [@relationship] => author
+                                                    [@type] => parent
+                                                    [afnameid] => University of Melbourne#60026553
+                                                    [afdispname] => University of Melbourne
+                                                    [manual-curation] => Array
+                                                        (
+                                                            [@curated] => true
+                                                            [date-curation] => Array
+                                                                (
+                                                                    [@day] => 21
+                                                                    [@month] => 05
+                                                                    [@timestamp] => 2014-05-21T11:01:40.748+01:00
+                                                                    [@year] => 2014
+                                                                )
+
+                                                            [curation-source] => QABOAPI
+                                                            [curation-type] => QABO-555897
+                                                        )
+
+                                                    [preferred-name] => University of Melbourne
+                                                    [sort-name] => Melbourne, University of
+                                                    [address] => Array
+                                                        (
+                                                            [@country] => aus
+                                                            [address-part] => 1-100 Grattan Street
+                                                            [city] => Parkville
+                                                            [state] => vic
+                                                            [postal-code] => 3010
+                                                            [country] => Australia
+                                                        )
+
+                                                    [org-domain] => unimelb.edu.au
+                                                    [org-URL] => http://www.unimelb.edu.au
+                                                )
+
+                                        )
+
+                                )
+
+                            [affiliation-history] => Array
+                                (
+                                    [affiliation] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [@affiliation-id] => 60026553
+                                                    [ip-doc] => Array
+                                                        (
+                                                            [@id] => 60026553
+                                                            [@relationship] => author
+                                                            [@type] => parent
+                                                            [afnameid] => University of Melbourne#60026553
+                                                            [afdispname] => University of Melbourne
+                                                            [manual-curation] => Array
+                                                                (
+                                                                    [@curated] => true
+                                                                    [date-curation] => Array
+                                                                        (
+                                                                            [@day] => 21
+                                                                            [@month] => 05
+                                                                            [@timestamp] => 2014-05-21T11:01:40.748+01:00
+                                                                            [@year] => 2014
+                                                                        )
+
+                                                                    [curation-source] => QABOAPI
+                                                                    [curation-type] => QABO-555897
+                                                                )
+
+                                                            [preferred-name] => University of Melbourne
+                                                            [sort-name] => Melbourne, University of
+                                                            [address] => Array
+                                                                (
+                                                                    [@country] => aus
+                                                                    [address-part] => 1-100 Grattan Street
+                                                                    [city] => Parkville
+                                                                    [state] => vic
+                                                                    [postal-code] => 3010
+                                                                    [country] => Australia
+                                                                )
+
+                                                            [org-domain] => unimelb.edu.au
+                                                            [org-URL] => http://www.unimelb.edu.au
+                                                        )
+
+                                                )
+
+                                            [1] => Array
+                                                (
+                                                    [@affiliation-id] => 112983066
+                                                    [@parent] => 60026553
+                                                    [ip-doc] => Array
+                                                        (
+                                                            [@id] => 112983066
+                                                            [@relationship] => author
+                                                            [@type] => dept
+                                                            [afdispname] => University of Melbourne, Department of Electrical and Electronic Engineering
+                                                            [preferred-name] => Department of Electrical and Electronic Engineering
+                                                            [parent-preferred-name] => University of Melbourne
+                                                            [sort-name] => Department of Electrical and Electronic Engineering
+                                                            [address] => Array
+                                                                (
+                                                                    [@country] => aus
+                                                                    [address-part] => 1-100 Grattan Street
+                                                                    [city] => Parkville
+                                                                    [state] => vic
+                                                                    [postal-code] => 3010
+                                                                    [country] => Australia
+                                                                )
+
+                                                            [org-domain] => unimelb.edu.au
+                                                            [org-URL] => http://www.unimelb.edu.au
+                                                        )
+
+                                                )
+
+                                            [2] => Array
+                                                (
+                                                    [@affiliation-id] => 103587043
+                                                    [@parent] => 60010859
+                                                    [ip-doc] => Array
+                                                        (
+                                                            [@id] => 103587043
+                                                            [@relationship] => author
+                                                            [@type] => dept
+                                                            [afdispname] => Federation University Australia, Centre for Informatics and Applied Optimization
+                                                            [preferred-name] => Centre for Informatics and Applied Optimization
+                                                            [parent-preferred-name] => Federation University Australia
+                                                            [sort-name] => Centre for Informatics and Applied Optimization
+                                                            [address] => Array
+                                                                (
+                                                                    [@country] => aus
+                                                                    [address-part] => P.O. Box 663
+                                                                    [city] => Ballarat
+                                                                    [state] => vic
+                                                                    [postal-code] => 3353
+                                                                    [country] => Australia
+                                                                )
+
+                                                            [org-domain] => ballarat.edu.au
+                                                            [org-URL] => http://www.ballarat.edu.au
+                                                        )
+
+                                                )
+
+                                            [3] => Array
+                                                (
+                                                    [@affiliation-id] => 114116038
+                                                    [ip-doc] => Array
+                                                        (
+                                                            [@id] => 114116038
+                                                            [@relationship] => author
+                                                            [@type] => parent
+                                                            [afnameid] => Federation University#114116038
+                                                            [afdispname] => Federation University
+                                                            [preferred-name] => Federation University
+                                                            [sort-name] => Federation University
+                                                            [address] => Array
+                                                                (
+                                                                    [@country] => aus
+                                                                    [address-part] => Ballarat, VIC, null3353
+                                                                    [city] => Ballarat
+                                                                    [state] => vic
+                                                                    [postal-code] => 3353
+                                                                    [country] => Australia
+                                                                )
+
+                                                        )
+
+                                                )
+
+                                            [4] => Array
+                                                (
+                                                    [@affiliation-id] => 60029420
+                                                    [ip-doc] => Array
+                                                        (
+                                                            [@id] => 60029420
+                                                            [@relationship] => author
+                                                            [@type] => parent
+                                                            [afnameid] => NICTA#60029420
+                                                            [afdispname] => NICTA
+                                                            [preferred-name] => NICTA
+                                                            [sort-name] => NICTA
+                                                            [address] => Array
+                                                                (
+                                                                    [@country] => aus
+                                                                    [address-part] => Locked Bag 8001
+                                                                    [city] => Canberra
+                                                                    [state] => AC
+                                                                    [postal-code] => 2601
+                                                                    [country] => Australia
+                                                                )
+
+                                                            [org-domain] => nicta.com.au
+                                                            [org-URL] => http://nicta.com.au/
+                                                        )
+
+                                                )
+
+                                            [5] => Array
+                                                (
+                                                    [@affiliation-id] => 103587040
+                                                    [@parent] => 60010859
+                                                    [ip-doc] => Array
+                                                        (
+                                                            [@id] => 103587040
+                                                            [@relationship] => author
+                                                            [@type] => dept
+                                                            [afdispname] => Federation University Australia, School of Information Technology and Mathematical Sciences
+                                                            [preferred-name] => School of Information Technology and Mathematical Sciences
+                                                            [parent-preferred-name] => Federation University Australia
+                                                            [sort-name] => School of Information Technology and Mathematical Sciences
+                                                            [address] => Array
+                                                                (
+                                                                    [@country] => aus
+                                                                    [address-part] => P.O. Box 663
+                                                                    [city] => Ballarat
+                                                                    [state] => vic
+                                                                    [postal-code] => 3353
+                                                                    [country] => Australia
+                                                                )
+
+                                                            [org-domain] => ballarat.edu.au
+                                                            [org-URL] => http://www.ballarat.edu.au
+                                                        )
+
+                                                )
+
+                                            [6] => Array
+                                                (
+                                                    [@affiliation-id] => 114323282
+                                                    [@parent] => 114116038
+                                                    [ip-doc] => Array
+                                                        (
+                                                            [@id] => 114323282
+                                                            [@relationship] => author
+                                                            [@type] => dept
+                                                            [afdispname] => Federation University, Centre for Informatics and Applied Optimization
+                                                            [preferred-name] => Centre for Informatics and Applied Optimization
+                                                            [parent-preferred-name] => Federation University
+                                                            [sort-name] => Centre for Informatics and Applied Optimization
+                                                            [address] => Array
+                                                                (
+                                                                    [@country] => aus
+                                                                    [address-part] => Ballarat, VIC, null3353
+                                                                    [city] => Ballarat
+                                                                    [state] => vic
+                                                                    [postal-code] => 3353
+                                                                    [country] => Australia
+                                                                )
+
+                                                        )
+
+                                                )
+
+                                            [7] => Array
+                                                (
+                                                    [@affiliation-id] => 114195170
+                                                    [@parent] => 114193861
+                                                    [ip-doc] => Array
+                                                        (
+                                                            [@id] => 114195170
+                                                            [@relationship] => author
+                                                            [@type] => dept
+                                                            [afdispname] => National ICT Australia, Victoria Research Laboratory
+                                                            [preferred-name] => Victoria Research Laboratory
+                                                            [parent-preferred-name] => National ICT Australia
+                                                            [sort-name] => Victoria Research Laboratory
+                                                            [address] => Array
+                                                                (
+                                                                    [@country] => can
+                                                                    [address-part] => Victoria, ON 3010
+                                                                    [country] => Canada
+                                                                )
+
+                                                        )
+
+                                                )
+
+                                            [8] => Array
+                                                (
+                                                    [@affiliation-id] => 114195207
+                                                    [@parent] => 114193906
+                                                    [ip-doc] => Array
+                                                        (
+                                                            [@id] => 114195207
+                                                            [@relationship] => author
+                                                            [@type] => dept
+                                                            [afdispname] => University of Ballarat, Centre for Informatics and Applied Optimization
+                                                            [preferred-name] => Centre for Informatics and Applied Optimization
+                                                            [parent-preferred-name] => University of Ballarat
+                                                            [sort-name] => Centre for Informatics and Applied Optimization
+                                                            [address] => Array
+                                                                (
+                                                                    [@country] => can
+                                                                    [address-part] => Victoria, ON 3353
+                                                                    [country] => Canada
+                                                                )
+
+                                                        )
+
+                                                )
+
+                                            [9] => Array
+                                                (
+                                                    [@affiliation-id] => 100961873
+                                                    [ip-doc] => Array
+                                                        (
+                                                            [@id] => 100961873
+                                                            [@relationship] => author
+                                                            [@type] => parent
+                                                            [afnameid] => University of Ballart#100961873
+                                                            [afdispname] => University of Ballart
+                                                            [preferred-name] => University of Ballart
+                                                            [sort-name] => University of Ballart
+                                                            [address] => Array
+                                                                (
+                                                                    [@country] => aus
+                                                                    [address-part] => Ballart
+                                                                    [city] => Ballarat
+                                                                    [country] => Australia
+                                                                )
+
+                                                        )
+
+                                                )
+
+                                            [10] => Array
+                                                (
+                                                    [@affiliation-id] => 103587032
+                                                    [@parent] => 60010859
+                                                    [ip-doc] => Array
+                                                        (
+                                                            [@id] => 103587032
+                                                            [@relationship] => author
+                                                            [@type] => dept
+                                                            [afdispname] => Federation University Australia, School of Science
+                                                            [preferred-name] => School of Science
+                                                            [parent-preferred-name] => Federation University Australia
+                                                            [sort-name] => School of Science
+                                                            [address] => Array
+                                                                (
+                                                                    [@country] => aus
+                                                                    [address-part] => P.O. Box 663
+                                                                    [city] => Ballarat
+                                                                    [state] => vic
+                                                                    [postal-code] => 3353
+                                                                    [country] => Australia
+                                                                )
+
+                                                            [org-domain] => ballarat.edu.au
+                                                            [org-URL] => http://www.ballarat.edu.au
+                                                        )
+
+                                                )
+
+                                            [11] => Array
+                                                (
+                                                    [@affiliation-id] => 112758332
+                                                    [@parent] => 112757686
+                                                    [ip-doc] => Array
+                                                        (
+                                                            [@id] => 112758332
+                                                            [@relationship] => author
+                                                            [@type] => dept
+                                                            [afdispname] => VRL, National Information and Communications Technology
+                                                            [preferred-name] => National Information and Communications Technology
+                                                            [parent-preferred-name] => VRL
+                                                            [sort-name] => VRL, National Information and Communications Technology
+                                                        )
+
+                                                )
+
+                                            [12] => Array
+                                                (
+                                                    [@affiliation-id] => 112848127
+                                                    [@parent] => 60010859
+                                                    [ip-doc] => Array
+                                                        (
+                                                            [@id] => 112848127
+                                                            [@relationship] => author
+                                                            [@type] => dept
+                                                            [afdispname] => Federation University Australia, School of Sciences
+                                                            [preferred-name] => School of Sciences
+                                                            [parent-preferred-name] => Federation University Australia
+                                                            [sort-name] => School of Sciences
+                                                            [address] => Array
+                                                                (
+                                                                    [@country] => aus
+                                                                    [address-part] => P.O. Box 663
+                                                                    [city] => Ballarat
+                                                                    [state] => vic
+                                                                    [postal-code] => 3353
+                                                                    [country] => Australia
+                                                                )
+
+                                                            [org-domain] => ballarat.edu.au
+                                                            [org-URL] => http://www.ballarat.edu.au
+                                                        )
+
+                                                )
+
+                                            [13] => Array
+                                                (
+                                                    [@affiliation-id] => 60010859
+                                                    [ip-doc] => Array
+                                                        (
+                                                            [@id] => 60010859
+                                                            [@relationship] => author
+                                                            [@type] => parent
+                                                            [afnameid] => Federation University Australia#60010859
+                                                            [afdispname] => Federation University Australia
+                                                            [manual-curation] => Array
+                                                                (
+                                                                    [@curated] => true
+                                                                    [date-curation] => Array
+                                                                        (
+                                                                            [@day] => 15
+                                                                            [@month] => 04
+                                                                            [@timestamp] => 2014-04-15T10:33:48.004+01:00
+                                                                            [@year] => 2014
+                                                                        )
+
+                                                                    [curation-source] => QABOAPI
+                                                                    [curation-type] => QABO-482970
+                                                                )
+
+                                                            [preferred-name] => Federation University Australia
+                                                            [sort-name] => Ballarat, University of
+                                                            [address] => Array
+                                                                (
+                                                                    [@country] => aus
+                                                                    [address-part] => P.O. Box 663
+                                                                    [city] => Ballarat
+                                                                    [state] => vic
+                                                                    [postal-code] => 3353
+                                                                    [country] => Australia
+                                                                )
+
+                                                            [org-domain] => ballarat.edu.au
+                                                            [org-URL] => http://www.ballarat.edu.au
+                                                        )
+
+                                                )
+
+                                            [14] => Array
+                                                (
+                                                    [@affiliation-id] => 103587046
+                                                    [@parent] => 60010859
+                                                    [ip-doc] => Array
+                                                        (
+                                                            [@id] => 103587046
+                                                            [@relationship] => author
+                                                            [@type] => dept
+                                                            [afdispname] => Federation University Australia, School of ITMS
+                                                            [preferred-name] => School of ITMS
+                                                            [parent-preferred-name] => Federation University Australia
+                                                            [sort-name] => School of ITMS
+                                                            [address] => Array
+                                                                (
+                                                                    [@country] => aus
+                                                                    [address-part] => P.O. Box 663
+                                                                    [city] => Ballarat
+                                                                    [state] => vic
+                                                                    [postal-code] => 3353
+                                                                    [country] => Australia
+                                                                )
+
+                                                            [org-domain] => ballarat.edu.au
+                                                            [org-URL] => http://www.ballarat.edu.au
+                                                        )
+
+                                                )
+
+                                            [15] => Array
+                                                (
+                                                    [@affiliation-id] => 105295601
+                                                    [@parent] => 60000231
+                                                    [ip-doc] => Array
+                                                        (
+                                                            [@id] => 105295601
+                                                            [@relationship] => author
+                                                            [@type] => dept
+                                                            [afdispname] => Suleyman Demirel Universitesi, Department of Mathematics
+                                                            [preferred-name] => Department of Mathematics
+                                                            [parent-preferred-name] => Suleyman Demirel Universitesi
+                                                            [sort-name] => Department of Mathematics
+                                                            [address] => Array
+                                                                (
+                                                                    [@country] => tur
+                                                                    [address-part] => Cunur Merkez Kampusu
+                                                                    [city] => Isparta
+                                                                    [postal-code] => 32260
+                                                                    [country] => Turkey
+                                                                )
+
+                                                            [org-domain] => sdu.edu.tr
+                                                            [org-URL] => http://www.sdu.edu.tr
+                                                        )
+
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+Complete.
